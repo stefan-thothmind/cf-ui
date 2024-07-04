@@ -14,7 +14,7 @@
     "react": "^0.14.9 || ^15.0.0-0 || ^16.0.0-0"
   },
   "dependencies": {
-    "cf-style-container": "^5.0.0",
+    "cf-style-container": "^9.0.0",
     "polished": "^1.2.1",
     "prop-types": "^15.5.8"
   }
