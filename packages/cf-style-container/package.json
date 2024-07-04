@@ -11,10 +11,10 @@
     "registry": "http://registry.npmjs.org/"
   },
   "dependencies": {
-    "fela": "^5.0.0",
+    "fela": "^6.0.0",
     "fela-utils": "^5.0.2",
     "prop-types": "^15.5.8",
-    "react-fela": "^5.0.0",
+    "react-fela": "^6.1.1",
     "seamless-immutable": "^7.1.2",
     "underscore.string": "^3.3.4"
   },
