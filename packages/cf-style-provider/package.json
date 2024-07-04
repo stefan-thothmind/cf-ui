@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "cf-style-const": "^2.5.2",
-    "cf-style-container": "^5.0.0",
-    "fela": "^5.0.0",
+    "cf-style-container": "^9.0.0",
+    "fela": "^6.0.0",
     "fela-beautifier": "^5.0.0",
     "fela-plugin-embedded": "^5.0.0",
     "fela-plugin-fallback-value": "^5.0.0",
@@ -24,7 +24,7 @@
     "fela-plugin-validator": "^5.0.0",
     "inline-style-prefixer": "^3.0.5",
     "prop-types": "^15.5.8",
-    "react-fela": "^5.0.0",
+    "react-fela": "^6.1.1",
     "react-test-renderer": "^15.6.1"
   },
   "peerDependencies": {
