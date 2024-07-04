@@ -11,7 +11,7 @@
     "registry": "http://registry.npmjs.org/"
   },
   "dependencies": {
-    "cf-component-icon": "^3.0.2",
+    "cf-component-icon": "^5.0.0",
     "cf-component-pagination": "^5.4.4",
     "prop-types": "^15.5.8"
   },
