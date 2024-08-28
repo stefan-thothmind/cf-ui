@@ -17,6 +17,6 @@
     "cf-component-button": "^6.1.2",
     "cf-style-provider": "^2.3.8",
     "react": "^15.6.0",
-    "webpack": "^3.0.0"
+    "webpack": "^5.94.0"
   }
 }
