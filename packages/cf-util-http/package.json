@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "cf-util-logger": "^2.2.0",
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "^3.0.0"
   },
   "optionalDependencies": {
     "es6-promise": "^4.1.0"
